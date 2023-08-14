@@ -6,12 +6,3 @@ Welcome to my profile! I'm Gregory Oliveira, a software engineer with over 12 ye
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 
 
-
-/*
-
-## GitHub Stats:
- <div>
-  <a href="https://github.com/gregoryoliveiraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gregoryoliveiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryoliveiraa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
