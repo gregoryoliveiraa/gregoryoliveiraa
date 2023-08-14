@@ -11,7 +11,7 @@ Greetings, I'm Gregory Oliveira, with over 12 years of experience as a software 
 
 ## GitHub Stats:
  <div>
-  <a href="https://github.com/rromulos">
+  <a href="https://github.com/gregoryoliveiraa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gregoryoliveiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryoliveiraa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
