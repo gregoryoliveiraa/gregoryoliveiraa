@@ -1,5 +1,7 @@
 ## About me:
-Welcome to my profile! I'm Gregory Oliveira, a software engineer with over 12 years of experience. Challenges have always captivated me, prompting my pursuit of a career in software development. In this role, I turn complex problems into clear solutions.
+**Welcome to my profile!** 
+
+I'm Gregory Oliveira, a software engineer with over 12 years of experience. Challenges have always captivated me, prompting my pursuit of a career in software development. In this role, I turn complex problems into clear solutions.
 
 PhD student in Computer Science, Graduate degree in computer science, with MBA in Information Technology Management, Undergraduate degree in Information System, with international experience, English language proficiency and more than 10 years of experience in the area, working in large national and multinational companies, highlighting the technology segment. Expertise in software engineering, emphasizing fullstack development, dealing with the back-end and front-end, ensuring excellence at all levels. 
 
